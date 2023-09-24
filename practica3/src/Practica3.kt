@@ -1,3 +1,4 @@
+//Bautista Rosales Alexis Axel 6NM61
 //Para guardar solo los atributos
 data class Punto (val x : Double , val y:Double)
 
