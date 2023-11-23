@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcdff7e0-3051-41ac-a61b-26d5a03a9fb5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Carrito.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Producto.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practica3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../practica3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practica3/out/production/practica3/Practica3Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../practica3/out/production/practica3/Practica3Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practica3/out/production/practica3/Punto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../practica3/out/production/practica3/Punto.class" afterDir="false" />
-    </list>
+    <list default="true" id="dcdff7e0-3051-41ac-a61b-26d5a03a9fb5" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Carrito.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="37" column="58" selection-start-line="37" selection-start-column="58" selection-end-line="37" selection-end-column="58" />
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -113,6 +106,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -239,8 +233,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Carrito.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="58" selection-start-line="37" selection-start-column="58" selection-end-line="37" selection-end-column="58" />
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
